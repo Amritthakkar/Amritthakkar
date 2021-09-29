@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amritthakkar&label=Profile%20views&color=0e75b6&style=flat" alt="Amritthakkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritthakkar&label=Profile%20views&color=0e75b6&style=flat" alt="amritthakkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amritthakkar" alt="Amritthakkar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritthakkar" alt="amritthakkar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amritthakkar&show_icons=true&locale=en&layout=compact" alt="Amritthakkar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritthakkar&show_icons=true&locale=en&layout=compact" alt="amritthakkar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amritthakkar&show_icons=true&locale=en" alt="Amritthakkar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amritthakkar&show_icons=true&locale=en" alt="amritthakkar" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amritthakkar&" alt="Amritthakkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritthakkar&" alt="amritthakkar" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Amritthakkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Amritthakkar" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/amritthakkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amritthakkar" /></a></p><br><br><br>
